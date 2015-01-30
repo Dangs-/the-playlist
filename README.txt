@@ -1,5 +1,5 @@
 
-Transform a poem into playlist usinng multi-executor and memcached python!!
+Transform a poem into playlist using multi-executor and memcached python!!
 
 Applicaion takes input in form of a poem and prepares a playlist of songs with the combination and permutations of words in poem:
 
